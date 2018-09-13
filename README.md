@@ -1,6 +1,5 @@
 # semaforo2
-# UNIDAD_3
-# Proyecto Arduino con LCD y Java.
+
 >Creado por: Milton Alexis Durán Moreno
 
 >Contacto: duran.milton.92@hotmail.com
