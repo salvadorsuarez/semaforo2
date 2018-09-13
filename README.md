@@ -1,4 +1,4 @@
-# semaforo2
+# Semaforo Interactivo
 
 >Creado por: Diego Salvador Suarez Quijas
 
